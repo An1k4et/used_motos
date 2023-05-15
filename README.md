@@ -14,9 +14,11 @@ Frontend Language:
 2. CSS
 3. Bootstrap
 4. JavaScript
+
 Backend Language:
 1. php
 2. XML
+
 Database:
 1. SQL
 
